@@ -4,7 +4,7 @@ body {
     background-repeat: no-repeat;
 }
 
-img {
+#writingpic {
     width: 200px;
     border-radius: 50%;
 }
@@ -59,4 +59,7 @@ h1 {
 }
 html {
     scroll-behavior: smooth;
+}
+#notebook {
+    width: 200px;
 }
